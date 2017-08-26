@@ -2,7 +2,7 @@
 
 **PhD candiate** (advisor: Prof. Elad Alon)
 
-Berkeley Wireless Research Center (**BWRC**), Department of Electrical Enginnering and Computer Science (**EECS**)
+Berkeley Wireless Research Center, Department of Electrical Enginnering and Computer Sciences
 
 University of California, Berkeley.
 
