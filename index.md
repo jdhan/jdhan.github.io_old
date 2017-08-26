@@ -10,8 +10,9 @@ University of California, Berkeley.
 
 **Email** : jdhan at eecs dot berkeley dot edu
 
-**[Google Scholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)**
+**[CV](https://www.dropbox.com/s/bg2wus6g05v0dqv/CV_JDHAN_170825.pdf?dl=0)**
 
+**[Google Scholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)**
 
 ## Research Interests
 
