@@ -1,28 +1,27 @@
-## Jaeduk Han's Website
+## Jaeduk Han
 
-# Jaeduk Han
+**PhD candiate** (advisor: Prof. Elad Alon)
 
-PhD candiate (advisor: Prof. Elad Alon)
+Berkeley Wireless Research Center (**BWRC**)
 
-Berkeley Wireless Research Center (BWRC)
-
-Department of Electrical Enginnering and Computer Science
+Department of Electrical Enginnering and Computer Science (**EECS**)
 
 University of California, Berkeley.
 
-Email : jdhan at eecs dot berkeley dot edu
+**Email** : jdhan at eecs dot berkeley dot edu
 
 [Google Scholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)
 
+## Research Interests
 
-# Short Bio
-
-
-# Academic Experiences
+## Short Bio
 
 
-# Industrial Experiences
+## Academic Experiences
 
 
-# Publications
+## Industrial Experiences
+
+
+## Publications
 
