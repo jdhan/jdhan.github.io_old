@@ -14,7 +14,7 @@ University of California, Berkeley.
 
 **[Google Scholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)**
 
-**[Linkedin](www.linkedin.com/in/jaeduk-han-98b20930)**
+**[Linkedin](https://www.linkedin.com/in/jaeduk-han-98b20930)**
 
 ## Research Interests
 
