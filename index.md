@@ -8,7 +8,7 @@ University of California, Berkeley.
 
 **Email** : jdhan at eecs dot berkeley dot edu
 
-**[CV](https://www.dropbox.com/s/bg2wus6g05v0dqv/CV_JDHAN_170825.pdf?dl=0)**
+**[CV](https://www.dropbox.com/s/0meaqdgvtbd79x7/CV_JDHAN.pdf?dl=0)**
 
 [**BWRC profile**(login required)](https://bwrc.eecs.berkeley.edu/user/jaeduk-han)
 
