@@ -22,10 +22,10 @@ University of California, Berkeley.
 ## Short Bio
 
 
-## Academic Experiences
+## Academic Experience
 
 
-## Industrial Experiences
+## Industry Experience
 
 
 ## Publications
