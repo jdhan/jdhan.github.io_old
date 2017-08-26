@@ -1,6 +1,6 @@
 ## Jaeduk Han's Website
 
-#Jaeduk Han
+# Jaeduk Han
 
 PhD candiate (advisor: Prof. Elad Alon)
 
@@ -15,14 +15,14 @@ Email : jdhan at eecs dot berkeley dot edu
 [Google Scholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)
 
 
-#Short Bio
+# Short Bio
 
 
-#Academic Experiences
+# Academic Experiences
 
 
-#Industrial Experiences
+# Industrial Experiences
 
 
-#Publications
+# Publications
 
