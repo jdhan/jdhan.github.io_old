@@ -30,12 +30,19 @@ Rapid-prototyping hardware for bio-electronic systems
 
 ## Education
 Ph.D.	University of California, Berkeley, EECS, Berkeley, CA, Jun. 2012 – Oct. 2017
+
 	Thesis: "Design and Automatic Generation of 60Gb/s Wireline Transceivers”
-  Advisor: Prof. Elad Alon
+
+	Advisor: Prof. Elad Alon
+
 M.S.	Seoul National University, EECS, Seoul, Korea,	Mar. 2007 – Feb. 2009
+
 	Thesis: "Design of a Hybrid Adaptive Decision Feedback Equalizer for High-speed Serial Links"
+	
 	Advisor: Prof. Deog-Kyoon Jeong 
+	
 B.S.	Seoul National University, EECS, Seoul, Korea,	Mar. 2003 – Feb. 2007
+
 	Thesis: "Behavioral Simulation of All-Digital Phase Locked Loop"
 
 
@@ -61,10 +68,15 @@ Teaching Assistant, Electronic Circuits I, Fall 2017
 ## Industry Experience
 
 SERDES Designer, Apple,	Aug. 2017 –
+
 SEG Intern, Apple, May. 2016 – Aug. 2016
+
 Analog/Mixed Signal Design Intern, Xilinx, May. 2015 – Dec. 2015
+
 Graduate Intern Technical, Intel, Jun. 2014 – Sep. 2014
+
 Research Intern, Altera (now Intel FPGA), Jun. 2012
+
 Engineer, TLI, Mar. 2009 – Mar. 2012
 
 ## Publications
