@@ -1,6 +1,4 @@
-## Jaeduk Han
-
-**PhD candiate** (advisor: Prof. Elad Alon)
+## Jaeduk Han, Ph.D.
 
 Berkeley Wireless Research Center, Department of Electrical Enginnering and Computer Sciences
 
