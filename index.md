@@ -58,11 +58,11 @@ Reader, [EE105](http://www-inst.eecs.berkeley.edu/~ee105/archives.html)	2013
 
 Research Assistant, Seoul National University, 2007 – 2009
 
-Teaching Assistant, Digital Integrated Circuits, Fall 2018
+Teaching Assistant, Digital Integrated Circuits, Seoul National University, Fall 2018
 
-Teaching Assistant, Electronic Circuits II, Summer 2018
+Teaching Assistant, Electronic Circuits II, Seoul National University, Summer 2018
 
-Teaching Assistant, Electronic Circuits I, Fall 2017
+Teaching Assistant, Electronic Circuits I, Seoul National University, Fall 2017
 
 
 ## Industry Experience
