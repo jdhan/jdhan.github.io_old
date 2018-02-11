@@ -6,7 +6,7 @@ University of California, Berkeley.
 
 **Email** : jdhan at eecs dot berkeley dot edu
 
-**[CV](CV_JDHAN_171113.pdf)**
+**[CV](CV_JDHAN_180210.pdf)**
 
 [**BWRC profile**(login required)](https://bwrc.eecs.berkeley.edu/user/jaeduk-han)
 
@@ -81,4 +81,4 @@ Engineer, TLI, Mar. 2009 – Mar. 2012
 
 ## Publications
 
-Check CV
+Check my [CV](CV_JDHAN_180210.pdf) for the full publication list
