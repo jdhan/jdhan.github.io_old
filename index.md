@@ -6,7 +6,7 @@ University of California, Berkeley.
 
 **Email** : jdhan at eecs dot berkeley dot edu
 
-**[CV](CV_JDHAN_180313.pdf)**
+**CV** : provided upon request
 
 [**BWRC profile**(login required)](https://bwrc.eecs.berkeley.edu/user/jaeduk-han)
 
@@ -17,13 +17,13 @@ University of California, Berkeley.
 
 ## Research Interests
 
-Ultra-high-speed (60+Gb/s) SERDES for datacenter applications
+Ultra-high-speed (60+Gb/s) SERDES for datacenter SoC/VLSI applications
 
-High-speed (10+GS/s) ADCs
+High-speed time-interleaved SAR ADC and signal processor for automotive RADAR and spectrometory applications
 
-AMS circuit design automation for advanced SOC applications (<16nm)
+AMS circuit design automation for advanced SoC/VLSI applications (<16nm)
 
-LED lighting systems
+Environment-friendly LED lighting systems
 
 Rapid-prototyping hardware for bio-electronic systems
 
