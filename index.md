@@ -1,19 +1,12 @@
 ## Jaeduk Han, Ph.D.
 
-Berkeley Wireless Research Center, Department of Electrical Enginnering and Computer Sciences
-
-University of California, Berkeley.
-
-**Email** : jdhan at eecs dot berkeley dot edu
-
-**CV** : provided upon request
-
-[**BWRC profile**(login required)](https://bwrc.eecs.berkeley.edu/user/jaeduk-han)
-
-**[Google Scholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)**
-
-**[Linkedin](https://www.linkedin.com/in/jaeduk-han-98b20930)**
-
+* Berkeley Wireless Research Center, Department of Electrical Enginnering and Computer Sciences
+* University of California, Berkeley.
+* **Email** : jdhan at eecs dot berkeley dot edu
+* **CV** : provided upon request
+* [**BWRC profile**(login required)](https://bwrc.eecs.berkeley.edu/user/jaeduk-han)
+* **[Google Scholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)**
+* **[Linkedin](https://www.linkedin.com/in/jaeduk-han-98b20930)**
 
 ## Research Interests
 * Ultra-high-speed (60+Gb/s) SERDES for datacenter SoC/VLSI applications
@@ -21,7 +14,6 @@ University of California, Berkeley.
 * AMS circuit design automation for advanced SoC/VLSI applications (<16nm)
 * Environment-friendly LED lighting systems
 * Rapid-prototyping hardware for bio-electronic systems
-
 
 ## Education
 Ph.D.	University of California, Berkeley, EECS, Berkeley, CA, Jun. 2012 – Dec. 2017
