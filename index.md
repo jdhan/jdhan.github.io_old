@@ -8,9 +8,8 @@
 * **[Google Scholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)**
 * **[Linkedin](https://www.linkedin.com/in/jaeduk-han-98b20930)**
 
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
+
+* [Heading](#Research Interests)
 - [Heading](#heading-1)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
