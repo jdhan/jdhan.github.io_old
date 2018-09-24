@@ -3,7 +3,7 @@
 * Berkeley Wireless Research Center, Department of Electrical Enginnering and Computer Sciences
 * University of California, Berkeley.
 * **Email** : jdhan at eecs dot berkeley dot edu
-* **CV** : provided upon request
+* **CV** : available upon request
 * [**BWRC profile**(login required)](https://bwrc.eecs.berkeley.edu/user/jaeduk-han)
 * **[Google Scholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)**
 * **[Linkedin](https://www.linkedin.com/in/jaeduk-han-98b20930)**
@@ -16,19 +16,19 @@
 * Rapid-prototyping hardware for bio-electronic systems
 
 ## Education
-Ph.D.	University of California, Berkeley, EECS, Berkeley, CA, Jun. 2012 – Dec. 2017
+* Ph.D.	University of California, Berkeley, EECS, Berkeley, CA, Jun. 2012 – Dec. 2017
 
-	Thesis: "Design and Automatic Generation of 60Gb/s Wireline Transceivers”
+	* Thesis: "Design and Automatic Generation of 60Gb/s Wireline Transceivers”
 
 	Advisor: Prof. Elad Alon
 
-M.S.	Seoul National University, EECS, Seoul, Korea,	Mar. 2007 – Feb. 2009
+* M.S.	Seoul National University, EECS, Seoul, Korea,	Mar. 2007 – Feb. 2009
 
 	Thesis: "Design of a Hybrid Adaptive Decision Feedback Equalizer for High-speed Serial Links"
 	
 	Advisor: Prof. Deog-Kyoon Jeong 
 	
-B.S.	Seoul National University, EECS, Seoul, Korea,	Mar. 2003 – Feb. 2007
+* B.S.	Seoul National University, EECS, Seoul, Korea,	Mar. 2003 – Feb. 2007
 
 	Thesis: "Behavioral Simulation of All-Digital Phase Locked Loop"
 
