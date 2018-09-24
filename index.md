@@ -17,24 +17,15 @@
 
 ## Education
 * Ph.D.	University of California, Berkeley, EECS, Berkeley, CA, Jun. 2012 – Dec. 2017
-
 	* Thesis: "Design and Automatic Generation of 60Gb/s Wireline Transceivers”
-
-	Advisor: Prof. Elad Alon
-
+	* Advisor: Prof. Elad Alon
 * M.S.	Seoul National University, EECS, Seoul, Korea,	Mar. 2007 – Feb. 2009
-
-	Thesis: "Design of a Hybrid Adaptive Decision Feedback Equalizer for High-speed Serial Links"
-	
-	Advisor: Prof. Deog-Kyoon Jeong 
-	
+	* Thesis: "Design of a Hybrid Adaptive Decision Feedback Equalizer for High-speed Serial Links"
+	* Advisor: Prof. Deog-Kyoon Jeong 
 * B.S.	Seoul National University, EECS, Seoul, Korea,	Mar. 2003 – Feb. 2007
-
-	Thesis: "Behavioral Simulation of All-Digital Phase Locked Loop"
-
+	* Thesis: "Behavioral Simulation of All-Digital Phase Locked Loop"
 
 ## Academic Experience
-
 * Graduate Student Researcher, UC Berkeley,	2012 – 2017
 * Graduate Student Instructor, [EE16B](http://inst.eecs.berkeley.edu/~ee16b/sp16/), UC Berkeley, Summer 2016
 * Graduate Student Instructor, [EE16A](http://inst.eecs.berkeley.edu/~ee16a/fa15/), UC Berkeley, Fall 2015
@@ -44,21 +35,13 @@
 * Teaching Assistant, Electronic Circuits II, Seoul National University, Summer 2018
 * Teaching Assistant, Electronic Circuits I, Seoul National University, Fall 2017
 
-
 ## Industry Experience
+* SERDES Designer, Apple, Aug. 2017 –
+* SEG Intern, Apple, May. 2016 – Aug. 2016
+* Analog/Mixed Signal Design Intern, Xilinx, May. 2015 – Dec. 2015
+* Graduate Intern Technical, Intel, Jun. 2014 – Sep. 2014
+* Research Intern, Altera (now Intel FPGA), Jun. 2012
+* Engineer, TLI, Mar. 2009 – Mar. 2012
 
-SERDES Designer, Apple,	Aug. 2017 –
+## Selected Publications
 
-SEG Intern, Apple, May. 2016 – Aug. 2016
-
-Analog/Mixed Signal Design Intern, Xilinx, May. 2015 – Dec. 2015
-
-Graduate Intern Technical, Intel, Jun. 2014 – Sep. 2014
-
-Research Intern, Altera (now Intel FPGA), Jun. 2012
-
-Engineer, TLI, Mar. 2009 – Mar. 2012
-
-## Publications
-
-Check my [CV](CV_JDHAN_180210.pdf) for the full publication list
