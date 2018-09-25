@@ -10,7 +10,7 @@
 
 
 1.[Research Interests](#research_interests)
-2.[Education](education)
+2.[Education](#education)
 3.[Academic Experience](#academic_experience)
 
 ## Research Interests
