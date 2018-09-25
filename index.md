@@ -31,7 +31,7 @@
 * Graduate Student Researcher, UC Berkeley, 2012 – 2017.
 * Graduate Student Instructor, [EE16B](http://inst.eecs.berkeley.edu/~ee16b/sp16/), UC Berkeley, Summer 2016.
 * Graduate Student Instructor, [EE16A](http://inst.eecs.berkeley.edu/~ee16a/fa15/), UC Berkeley, Fall 2015.
-* Reader, [EE105](http://www-inst.eecs.berkeley.edu/~ee105/archives.html) 2013.
+* Reader, [EE105](http://www-inst.eecs.berkeley.edu/~ee105/archives.html), UC Berkeley, Spring 2013.
 * Research Assistant, Seoul National University, 2007 – 2009.
 * Teaching Assistant, Digital Integrated Circuits, Seoul National University, Fall 2018.
 * Teaching Assistant, Electronic Circuits II, Seoul National University, Summer 2018.
