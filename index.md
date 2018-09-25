@@ -1,19 +1,15 @@
 ## Jaeduk Han, Ph.D.
 
-* Berkeley Wireless Research Center, Department of Electrical Enginnering and Computer Sciences
-* University of California, Berkeley.
 * **Email** : jdhan at eecs dot berkeley dot edu
 * **CV** : available upon request
 * [**BWRC profile**(login required)](https://bwrc.eecs.berkeley.edu/user/jaeduk-han)
 * **[Google Scholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)**
 * **[Linkedin](https://www.linkedin.com/in/jaeduk-han-98b20930)**
 
-
 - [**Research Interests**](#research-interests)
 - [**Education**](#education)
 - [**Academic Experience**](#academic-experience)
 - [**Industry Experience**](#industry-experience)
-- [**Selected Publications**](#selected-publications)
 
 ## Research Interests
 * Ultra-high-speed (60+Gb/s) SERDES for datacenter SoC/VLSI applications
@@ -49,6 +45,3 @@
 * Graduate Intern Technical, Intel, Jun. 2014 – Sep. 2014
 * Research Intern, Altera (now Intel FPGA), Jun. 2012
 * Engineer, TLI, Mar. 2009 – Mar. 2012
-
-## Selected Publications
-
