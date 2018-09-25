@@ -12,7 +12,7 @@
 
 ## Research Interests
 * Ultra-high-speed (60+Gb/s) SERDES for datacenter SoC/VLSI applications.
-* High-speed time-interleaved SAR ADC and signal processor for automotive RADAR and spectrometory applications.
+* High-speed time-interleaved SAR ADC and signal processor for RADAR and Spectrometory applications.
 * AMS circuit design automation for advanced SoC/VLSI applications (<16nm).
 * Environment-friendly LED lighting systems.
 * Rapid-prototyping hardware for bio-electronic systems.
