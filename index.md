@@ -9,9 +9,11 @@
 * **[Linkedin](https://www.linkedin.com/in/jaeduk-han-98b20930)**
 
 
-- [Research Interests](#research-interests)
-- [Education](#education)
-- [Academic Experience](#academic-experience)
+- [**Research Interests**](#research-interests)
+- [**Education**](#education)
+- [**Academic Experience**](#academic-experience)
+- [**Industry Experience**](#industry-experience)
+- [**Selected Publications**](#selected-publications)
 
 ## Research Interests
 * Ultra-high-speed (60+Gb/s) SERDES for datacenter SoC/VLSI applications
