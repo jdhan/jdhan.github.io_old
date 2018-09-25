@@ -20,7 +20,7 @@
 
 ## Education
 * Ph.D.	University of California, Berkeley, EECS, Berkeley, CA, Jun. 2012 – Dec. 2017
-	* Thesis: "Design and Automatic Generation of 60Gb/s Wireline Transceivers”
+	* Thesis: ["Design and Automatic Generation of 60Gb/s Wireline Transceivers”](https://www2.eecs.berkeley.edu/Pubs/Dissertations/Faculty/elad.html)
 	* Advisor: Prof. Elad Alon
 * M.S.	Seoul National University, EECS, Seoul, Korea,	Mar. 2007 – Feb. 2009
 	* Thesis: "Design of a Hybrid Adaptive Decision Feedback Equalizer for High-speed Serial Links"
