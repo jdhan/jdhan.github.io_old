@@ -5,12 +5,10 @@
 * [**BWRC profile**(login required)](https://bwrc.eecs.berkeley.edu/user/jaeduk-han)
 * **[Google Scholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)**
 * **[Linkedin](https://www.linkedin.com/in/jaeduk-han-98b20930)**
-
-
-- [**Research Interests**](#research-interests)
-- [**Education**](#education)
-- [**Academic Experience**](#academic-experience)
-- [**Industry Experience**](#industry-experience)
+* [**Research Interests**](#research-interests)
+* [**Education**](#education)
+* [**Academic Experience**](#academic-experience)
+* [**Industry Experience**](#industry-experience)
 
 ## Research Interests
 * Ultra-high-speed (60+Gb/s) SERDES for datacenter SoC/VLSI applications
