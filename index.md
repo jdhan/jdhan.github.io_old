@@ -9,7 +9,7 @@
 * **[Linkedin](https://www.linkedin.com/in/jaeduk-han-98b20930)**
 
 
-1.[Research Interests](#research_interests)
+1.[Research Interests](#research interests)
 2.[Education](#education)
 3.[Academic Experience](#academic_experience)
 
