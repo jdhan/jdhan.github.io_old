@@ -23,10 +23,10 @@
 	* Thesis: ["Design and Automatic Generation of 60Gb/s Wireline Transceivers”](https://www2.eecs.berkeley.edu/Pubs/Dissertations/Faculty/elad.html)
 	* Advisor: Prof. Elad Alon
 * M.S.	Seoul National University, EECS, Seoul, Korea,	Mar. 2007 – Feb. 2009
-	* Thesis: "Design of a Hybrid Adaptive Decision Feedback Equalizer for High-speed Serial Links"
+	* Thesis: ["Design of a Hybrid Adaptive Decision Feedback Equalizer for High-speed Serial Links"](http://s-space.snu.ac.kr/handle/10371/44698)
 	* Advisor: Prof. Deog-Kyoon Jeong 
 * B.S.	Seoul National University, EECS, Seoul, Korea,	Mar. 2003 – Feb. 2007
-	* Thesis: "Behavioral Simulation of All-Digital Phase Locked Loop"
+	* Thesis: ["Behavioral Simulation of All-Digital Phase Locked Loop"](http://snu-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/display.do?tabs=requestTab&indx=2&fn=search&dscnt=0&recIds=82SNU_INST21454603980002591&mode=Basic&vid=82SNU&tab=all&prefLang=ko_KR&dstmp=1537835187998&elementId=1&frbg=&&frbrVersion=&scp.scps=scope:(82SNU_ROSETTA),scope:(82SNU_COURSE),scope:(82SNU_INST),scope:(82SNU_SSPACE2),primo_central_multiple_fe&tb=t&displayMode=full&renderMode=poppedOut&ct=display&recIdxs=1&srt=rank&doc=82SNU_INST21454603980002591&dum=true&vl(freeText0)=%ED%95%9C%EC%9E%AC%EB%8D%95&vid=82SNU&backFromPreferences=true)
 
 ## Academic Experience
 * Graduate Student Researcher, UC Berkeley,	2012 – 2017
