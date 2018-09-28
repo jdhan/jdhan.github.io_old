@@ -16,6 +16,8 @@
 * AMS circuit design automation for advanced SoC/VLSI applications (<16nm).
 * Environment-friendly LED lighting systems.
 * Rapid-prototyping hardware for bio-electronic systems.
+* My research map
+![alt text](research_map.png)
 
 ## Education
 * Ph.D.	University of California, Berkeley, EECS, Berkeley, CA, Jun. 2012 – Dec. 2017.
