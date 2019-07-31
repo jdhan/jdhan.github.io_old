@@ -1,46 +1,45 @@
-## Jaeduk Han, Ph.D.
+### Jaeduk Han, Ph.D.
+![alt text](images/Jaeduk.png)
 
 * **Email** : jdhan at eecs dot berkeley dot edu
-* **CV** : available upon request
-* [**BWRC profile**(login required)](https://bwrc.eecs.berkeley.edu/user/jaeduk-han)
-* **[Google Scholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)**
-* **[Linkedin](https://www.linkedin.com/in/jaeduk-han-98b20930)**
-* [**Research Interests**](#research-interests)
-* [**Education**](#education)
-* [**Academic Experience**](#academic-experience)
-* [**Industry Experience**](#industry-experience)
+* [**CV**](CV_JDHAN_190731.pdf)
+* [**Google Scholar**](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)
+* [**Linkedin**](https://www.linkedin.com/in/jaeduk-han-98b20930)
 
-## Research Interests
-* Ultra-high-speed (60+Gb/s) SERDES for datacenter SoC/VLSI applications.
-* High-speed time-interleaved SAR ADC and signal processor for RADAR and Spectrometory applications.
-* AMS circuit design automation for advanced SoC/VLSI applications (<16nm).
-* Environment-friendly LED lighting systems.
-* Rapid-prototyping hardware for bio-electronic systems.
-* My research map
-![alt text](research_map.png)
+#### Biography
+Jaeduk Han is an Assistant Professor of Electronic Engineering at Hanyang University.
+He received the B.S., and M.S. degrees with honors from Seoul National University (SNU)
+in 2007 and 2009, respectively, and his Ph.d degree from University of California, 
+Berkeley in 2017. From 2009 to 2017, he has held various full-time and internship positions at TLI, 
+Altera (now Intel FPGA), Intel, Xilinx, and Apple. 
 
-## Education
-* Ph.D.	University of California, Berkeley, EECS, Berkeley, CA, Jun. 2012 – Dec. 2017.
-	* Thesis: ["Design and Automatic Generation of 60Gb/s Wireline Transceivers”].(https://www2.eecs.berkeley.edu/Pubs/Dissertations/Faculty/elad.html)
-	* Advisor: Prof. Elad Alon
-* M.S.	Seoul National University, EECS, Seoul, Korea,	Mar. 2007 – Feb. 2009.
-	* Thesis: ["Design of a Hybrid Adaptive Decision Feedback Equalizer for High-speed Serial Links"](http://s-space.snu.ac.kr/handle/10371/44698).
-	* Advisor: Prof. Deog-Kyoon Jeong 
-* B.S.	Seoul National University, EECS, Seoul, Korea,	Mar. 2003 – Feb. 2007.
-	* Thesis: ["Behavioral Simulation of All-Digital Phase Locked Loop"](http://snu-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/display.do?tabs=requestTab&indx=2&fn=search&dscnt=0&recIds=82SNU_INST21454603980002591&mode=Basic&vid=82SNU&tab=all&prefLang=ko_KR&dstmp=1537835187998&elementId=1&frbg=&&frbrVersion=&scp.scps=scope:(82SNU_ROSETTA),scope:(82SNU_COURSE),scope:(82SNU_INST),scope:(82SNU_SSPACE2),primo_central_multiple_fe&tb=t&displayMode=full&renderMode=poppedOut&ct=display&recIdxs=1&srt=rank&doc=82SNU_INST21454603980002591&dum=true&vl(freeText0)=%ED%95%9C%EC%9E%AC%EB%8D%95&vid=82SNU&backFromPreferences=true).
+Dr. Han was a recipient of a KFAS graduate study fellowship in 2009, a KFAS doctoral study 
+fellowship in 2012, the SNU EECS best tutor award in 2008, and the UC Berkeley EECS 
+outstanding course development and teaching award in 2016.
 
-## Academic Experience
+His research interests include design and automatic generation of high-performance 
+integrated circuits, LED lighting systems, silicon photonics, and bio-electronic systems.
+
+[//]: # (<* My research map>)
+[//]: # ([alt text]research_map.png)
+
+#### Education
+* Ph.D.	University of California, Berkeley, EECS, Berkeley, CA, 2012 – 2017.
+* M.S.	Seoul National University, EECS, Seoul, Korea,	2007 – 2009.
+* B.S.	Seoul National University, EECS, Seoul, Korea,	2003 – 2007.
+
+#### Academic Experience
+* Assistant Professor, Electronic Engineering, Hanyang University, 2019 – present.
 * Graduate Student Researcher, UC Berkeley, 2012 – 2017.
 * Graduate Student Instructor, [EE16B](http://inst.eecs.berkeley.edu/~ee16b/sp16/), UC Berkeley, Summer 2016.
 * Graduate Student Instructor, [EE16A](http://inst.eecs.berkeley.edu/~ee16a/fa15/), UC Berkeley, Fall 2015.
-* Reader, [EE105](http://www-inst.eecs.berkeley.edu/~ee105/archives.html), UC Berkeley, Spring 2013.
 * Research Assistant, Seoul National University, 2007 – 2009.
-* Teaching Assistant, Digital Integrated Circuits, Seoul National University, Fall 2018.
-* Teaching Assistant, Electronic Circuits II, Seoul National University, Summer 2018.
-* Teaching Assistant, Electronic Circuits I, Seoul National University, Fall 2017.
+* Teaching Assistant, Digital Integrated Circuits, Seoul National University, 2018.
+* Teaching Assistant, Electronic Circuits II, Seoul National University, 2018.
+* Teaching Assistant, Electronic Circuits I, Seoul National University, 2017.
 
-## Industry Experience
-* SERDES Designer, Apple, Aug. 2017 –.
+#### Industry Experience
+* SERDES Designer, Apple, Aug. 2017 – Jul. 2019.
 * SEG Intern, Apple, May. 2016 – Aug. 2016.
 * Analog/Mixed Signal Design Intern, Xilinx, May. 2015 – Dec. 2015.
 * Graduate Intern Technical, Intel, Jun. 2014 – Sep. 2014.
